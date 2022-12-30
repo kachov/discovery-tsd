@@ -1,5 +1,5 @@
 {
-  "name": "discovery-tsd",
+  "name": "@cloudaware/discovery-tsd",
   "description": "Generates TypeScript declaration files from Discovery API",
   "version": "0.3.2",
   "license": "ISC",
