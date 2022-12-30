@@ -32,6 +32,6 @@
     "eslint": "^5.15.3"
   },
   "publishConfig": {
-    "registry": "https://nexus.cloudaware.com/content/repositories/npm-releases/"
+    "registry": "https://nexus.cloudaware.com/repository/npm-group/"
   }
 }
